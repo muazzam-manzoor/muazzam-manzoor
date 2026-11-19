@@ -84,7 +84,7 @@ A MERN-stack application built to practise hotel room discovery, booking workflo
 
 ## Let's Connect
 
-- **Portfolio:** [muazzam-manzoor.github.io/](https://muazzam-manzoor.github.io/)
+- **Portfolio:** [muazzam-manzoor.github.io](https://muazzam-manzoor.github.io/)
 - **LinkedIn:** [linkedin.com/in/muazzam-manzoor](https://www.linkedin.com/in/muazzam-manzoor/)
 - **GitHub:** [github.com/muazzam-manzoor](https://github.com/muazzam-manzoor)
 - **Email:** [muazzamkhokhar.mk@gmail.com](mailto:muazzamkhokhar.mk@gmail.com)
