@@ -51,7 +51,7 @@ Key engineering areas:
 - Role-based access control
 - Audit logging
 
-[View Repository](https://github.com/Muazzam-Khokhar/CIMS)
+[View Repository](https://github.com/muazzam-manzoor/CIMS)
 
 ### 2. SmartLearn — Learning Management System
 **Independent development project**
@@ -66,7 +66,7 @@ Key areas:
 - Course and lesson management
 - Role-based dashboards
 
-[View Repository](https://github.com/Muazzam-Khokhar/SmartLearn-AI-LMS)
+[View Repository](https://github.com/muazzam-manzoor/SmartLearn-AI-LMS)
 
 ## 💼 Professional Experience
 
@@ -91,7 +91,7 @@ My interests include:
 ## 🤝 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/muazzam-manzoor/
-- GitHub: https://github.com/Muazzam-Khokhar
+- GitHub: https://github.com/manzoor-manzoor
 - Email: muazzamkhokhar.mk@gmail.com
 
 I'm open to software development opportunities, technical collaborations, and business projects.
